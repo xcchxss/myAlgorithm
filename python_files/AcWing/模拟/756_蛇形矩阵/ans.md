@@ -1,6 +1,6 @@
 ### 题目描述
 
-![](D:\Study\myAlgorithm\python_files\AcWing\模拟\756_蛇形矩阵\756_蛇形矩阵.bmp)
+![](https://raw.githubusercontent.com/xcchxss/myAlgorithm/refs/heads/main/python_files/AcWing/%E6%A8%A1%E6%8B%9F/756_%E8%9B%87%E5%BD%A2%E7%9F%A9%E9%98%B5/756_%E8%9B%87%E5%BD%A2%E7%9F%A9%E9%98%B5.bmp)
 
 ### 方法技巧
 
@@ -57,4 +57,3 @@ for i in range(n):
     print()
 # 循环打印蛇形矩阵
 ```
-
