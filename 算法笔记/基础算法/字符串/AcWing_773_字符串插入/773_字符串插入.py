@@ -9,7 +9,7 @@ while True:
 
     except EOFError:
         break
-    # EoFError：End of File Error
+    # EOFError：End Of File Error
     # 表示输入结束
 
     ans = s.split()
